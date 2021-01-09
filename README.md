@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Kotlin.
 
 You can contact me via: 
-[![Facebook Badge](https://img.shields.io/badge/-@mattstacey198-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/mattstacey198]
-https://facebook.com/mattstacey198
 
+[![Facebook Badge](https://img.shields.io/badge/-@mattstacey198-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/mattstacey198)]
+(https://facebook.com/mattstacey198)
