@@ -2,5 +2,8 @@
 
 - 🔭 I’m currently working on Flutter, NodeJS.
 - 🌱 I’m currently learning Kotlin.
-- 📫 How to reach me: [@mattstacey198](https://www.facebook.com/mattstacey198/)
--->
+
+You can contact me via: 
+[![Facebook Badge](https://img.shields.io/badge/-@mattstacey198-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/mattstacey198]
+https://facebook.com/mattstacey198
+
