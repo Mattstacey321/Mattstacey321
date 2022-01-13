@@ -1,7 +1,7 @@
 ### Hi, I'm Hoang <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
+Cancel changes
 - 🔭 I’m currently working on Flutter, NodeJS.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Kotlin, ReactJS, Rust + WASM.
 
 You can contact me via: 
 
